@@ -1,0 +1,11 @@
+{
+  "duration": 28,
+  "fps": 60,
+  "beats": [
+    {"at": 0, "view": "assembly"},
+    {"at": 4.3, "view": "exploded"},
+    {"at": 10.8, "view": "plate"},
+    {"at": 16.0, "view": "flow"},
+    {"at": 22.2, "view": "section"}
+  ]
+}
